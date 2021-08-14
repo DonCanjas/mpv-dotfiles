@@ -6,6 +6,7 @@ Recommended Scripts
 --------------------
 - [mpv-plugin-xrandr](https://gitlab.com/lvml/mpv-plugin-xrandr) (Linux only)
 - [autoload](https://github.com/LightArrowsEXE/dotfiles/blob/master/mpv/.config/mpv/scripts/autoload.lua)
+- [copy-paste-URL](https://github.com/zenyd/mpv-scripts/blob/master/copy-paste-URL.lua)
 
 Optional Dependencies
 --------------------
