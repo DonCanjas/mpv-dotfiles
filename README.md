@@ -1,6 +1,6 @@
 My personal configuration for mpv
 --------------------
-This is a set of dotfiles for mpv, including some scritps. Not all scritps are included, but I'll list them.
+This is a set of dotfiles for mpv, including some scritps. Not all scritps are included, but I'll list all of them down below.
 
 Recommended Scripts
 --------------------
