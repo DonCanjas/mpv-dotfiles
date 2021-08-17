@@ -16,7 +16,7 @@ Dependencies for full vapoursynth support
 - [cycle-profile](https://github.com/LightArrowsEXE/dotfiles/blob/master/mpv/.config/mpv/scripts/cycle-profile.lua)
 - [neo_f3kdb](https://github.com/HomeOfAviSynthPlusEvolution/neo_f3kdb)
 - [TIVTC](https://github.com/dubhater/vapoursynth-tivtc)
-- []
+- [CCD](https://github.com/End-of-Eternity/vs-ccd)
 
 Included Scripts
 --------------------
