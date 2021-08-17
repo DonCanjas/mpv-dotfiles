@@ -16,8 +16,12 @@ Dependencies for full vapoursynth support
 - [cycle-profile](https://github.com/LightArrowsEXE/dotfiles/blob/master/mpv/.config/mpv/scripts/cycle-profile.lua)
 - [neo_f3kdb](https://github.com/HomeOfAviSynthPlusEvolution/neo_f3kdb)
 - [TIVTC](https://github.com/dubhater/vapoursynth-tivtc)
+- []
 
 Included Scripts
 --------------------
 - IVTC
+- neo_f3kdb_dither
+- neo_f3kdb_deband
+- cam_corder_denoise
 - [visualizer](https://github.com/DonCanjas/mpv-visualizer)
