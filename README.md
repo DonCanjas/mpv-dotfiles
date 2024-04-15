@@ -10,18 +10,8 @@ Recommended Scripts
 
 Optional Dependencies
 --------------------
-Dependencies for full vapoursynth support
-- [mpv](https://github.com/mpv-player/mpv) (compiled with vapoursynth support)
-- [vapoursynth](https://github.com/vapoursynth/vapoursynth)
-- [cycle-profile](https://github.com/LightArrowsEXE/dotfiles/blob/master/mpv/.config/mpv/scripts/cycle-profile.lua)
-- [neo_f3kdb](https://github.com/HomeOfAviSynthPlusEvolution/neo_f3kdb)
-- [TIVTC](https://github.com/dubhater/vapoursynth-tivtc)
-- [CCD](https://github.com/End-of-Eternity/vs-ccd)
+- [cycle-profile](https://github.com/LightArrowsEXE/dotfiles/blob/master/mpv/.config/mpv/scripts/cycle-profile.lua) to cycle through manual profiles
 
 Included Scripts
 --------------------
-- IVTC
-- neo_f3kdb_dither
-- neo_f3kdb_deband
-- cam_corder_denoise
 - [visualizer](https://github.com/DonCanjas/mpv-visualizer)
