@@ -2,6 +2,8 @@ My personal configuration for mpv
 --------------------
 This is a set of dotfiles for mpv, including some scritps. Not all scritps are included, but I'll list all of them down below.
 
+The configuration defaults to linux, just comment linux specific lines and uncomment windows'.
+
 Recommended Scripts
 --------------------
 - [mpv-plugin-xrandr](https://gitlab.com/lvml/mpv-plugin-xrandr) (Linux only)
