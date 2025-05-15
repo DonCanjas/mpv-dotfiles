@@ -6,7 +6,7 @@ The configuration defaults to linux, just comment linux specific lines and uncom
 
 Recommended Scripts
 --------------------
-- [mpv-plugin-xrandr](https://gitlab.com/lvml/mpv-plugin-xrandr) (Linux only)
+- [mpv-plugin-xrandr](https://gitlab.com/lvml/mpv-plugin-xrandr) (~Linux~ **xorg losers** only)
 - [autoload](https://github.com/LightArrowsEXE/dotfiles/blob/master/mpv/.config/mpv/scripts/autoload.lua)
 - [copy-paste-URL](https://github.com/elhirchek/copy-paste-url)
 
