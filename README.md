@@ -8,7 +8,7 @@ Auto profiles are taken from [SoM MPV Config](https://github.com/JySzE/SoM-MPV-C
 
 Recommended Scripts
 --------------------
-- [mpv-plugin-xrandr](https://gitlab.com/lvml/mpv-plugin-xrandr) (~Linux~ **losers without vrr** only)
+- [mpv-plugin-xrandr](https://gitlab.com/lvml/mpv-plugin-xrandr) (Linux **losers without vrr** only)
 - [autoload](https://github.com/LightArrowsEXE/dotfiles/blob/master/mpv/.config/mpv/scripts/autoload.lua)
 - [copy-paste-URL](https://github.com/elhirchek/copy-paste-url)
 
